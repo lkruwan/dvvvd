@@ -15,7 +15,7 @@
     "request": "^2.88.2",
     "serve-favicon": "^2.5.0",
     "yt-search": "^2.7.5",
-    "lusifar-yt": "^4.5.0"
+    "lusifar-yt": "1.0.1"
   },
   "devDependencies": {},
   "scripts": {
